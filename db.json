@@ -41,13 +41,8 @@
       "likes": 60
     },
     {
-<<<<<<< HEAD
-      "title": "REST calls ont working?",
-      "body": "You may have noticed that changes are faked and are not persisted between calls. That is because to host this app succesfully we are faking the back end using https://my-json-server.typicode.com/. To see the blog posts updating when you click on delete or add blog, you'd need to clone the repository and run the app locally. You would also need to run the JSON server locally by opening another terminal and entering the command 'npx json-server --watch data/db.json --port 8000'",
-=======
       "title": "CRUD calls not working?",
       "body": "You may have noticed that changes are faked and are not persisted between calls. That is because to host this app succesfully we are faking the back end using https://my-json-server.typicode.com/. <br/> To see the blog posts updating when you click on delete or add blog, you'd need to clone the repository and run the app locally. You would also need to run the JSON server locally by opening another terminal and entering the command 'npx json-server --watch data/db.json --port 8000'",
->>>>>>> cf2eea144858dd5260bf4d11ebea1ac4e03d1fe2
       "image": "typicode.jpg",
       "author": "Yuyin",
       "id": 6,
