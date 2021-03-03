@@ -42,7 +42,7 @@
     },
     {
       "title": "CRUD calls not working?",
-      "body": "You may have noticed that changes are faked and are not persisted between calls. That is because to host this app succesfully we are faking the back end using my-json-server typicode from my-json-server.typicode.com. Which is pretty neat IMO. To see changes when you click on delete or add blog, you'd need to clone the repository and run the app locally. You would also need to run the JSON server locally by opening a terminal and entering the command 'npx json-server --watch data/db.json --port 8000'",
+      "body": "You may have noticed that changes are not persisted between calls. That is because to host this app succesfully we are faking the back end using my-json-server typicode from my-json-server.typicode.com. Which is pretty neat IMO. To see changes when you click on delete or add blog, you'd need to clone the repository and run the app locally. You would also need to run the JSON server locally by opening a terminal and entering the command 'npx json-server --watch data/db.json --port 8000'",
       "image": "typicode.jpg",
       "author": "Yuyin",
       "id": 6,
