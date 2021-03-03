@@ -1,8 +1,8 @@
 {
   "blogs": [
     {
-      "title": "What is react for?",
-      "body": "React is used to create responsive, reactive user interfaces with ease. Before react, maintaining dynamic user interfaces could become very complicated very quickly. \n\n With react you define the layouts to be displayed using manageable chunks of code called components, and react takes care of the rest.",
+      "title": "What is React for?",
+      "body": "React is used to create responsive, 'reactive' user interfaces with ease. Before react, maintaining dynamic user interfaces could become very complicated very quickly. \n\n With react you define the layouts to be displayed using manageable chunks of code called components, and react takes care of the rest.",
       "author": "Yuyin",
       "image": "react.svg",
       "id": 1,
